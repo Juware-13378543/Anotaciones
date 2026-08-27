@@ -12,3 +12,14 @@ saludo = saludo_normal("Julian")
 #Mostramos los resultados
 print(saludo)
 print(f"\n{saludo_raro}")
+
+#Para ver las propiedades y metodos de el namspace
+#print(dir(m_saludar))
+
+
+#Enrutamiento de modulos
+from funciones.crear_funciones import saludar
+
+sa = saludar
+print(sa)
+
