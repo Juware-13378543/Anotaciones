@@ -18,8 +18,4 @@ print(f"\n{saludo_raro}")
 
 
 #Enrutamiento de modulos
-from funciones.crear_funciones import saludar
-
-sa = saludar
-print(sa)
 
