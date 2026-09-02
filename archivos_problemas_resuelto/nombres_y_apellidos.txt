@@ -1,0 +1,17 @@
+los datos son: 
+
+Nobre: luca
+Apellido: Beja
+----------
+Nobre: Matias
+Apellido: Zing
+----------
+Nobre: Camila
+Apellido: Dalto
+----------
+Nobre: pedro
+Apellido: Roberti
+----------
+Nobre: Roberto
+Apellido: Cuacua
+----------
